@@ -1,83 +1,143 @@
 
+
 <div align="center">
 
-# Hey, I'm Camille 👋
+# Hi, I'm Camille 👋
 
-### Full-Stack Developer | C# / .NET & React
+### Full-Stack Developer | C# / .NET · React · TypeScript
 
-Based in Toulouse, France
+📍 Toulouse, France
 
-I enjoy building applications, solving real-world problems, and exploring better ways to write and structure software.
+Building maintainable web applications, designing backend systems, and exploring cloud-native development.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/camille-favriel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/camille-favriel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-24292F?style=for-the-badge&logo=githubpages&logoColor=white)](https://camfav.github.io)
 
 </div>
 
 ---
 
-### 👨‍💻 About me
+## 👨‍💻 About Me
 
-I'm a software developer with a background in computer science and AR/VR development at **Holberton School**, and a French RNCP Level 6 professional certification in application development.
+I'm a **Full-Stack Developer** based in Toulouse, France, with a background in computer science and AR/VR development at **Holberton School**.
 
-My main focus is **full-stack development**, with a particular interest in the **C# / .NET ecosystem**, backend architecture, and building maintainable applications.
+I hold a **French RNCP Level 6 certification in Application Development** (*Concepteur Développeur d'Applications*).
 
-I'm also interested in AI-assisted development, using coding agents and structured workflows to support implementation, code reviews, and problem-solving.
+My main focus is building reliable, maintainable applications using **C# / ASP.NET Core, React, TypeScript, and PostgreSQL**.
 
-### 🛠️ Tech stack
+I'm currently expanding my skills in **Cloud, DevOps, and AI-assisted development**, with an emphasis on Docker, CI/CD, Microsoft Azure, and software architecture.
 
-**Backend**
+---
+
+## 🛠️ Tech Stack
+
+### Backend & APIs
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-**Frontend**
+### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Databases & Tools**
+### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### DevOps & Tools
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 🚀 Projects
+---
 
-**SaveTheStock** | Inventory Management SaaS
+## 🚀 Featured Projects
 
-A multi-tenant inventory management application built with ASP.NET Core, React, TypeScript, and PostgreSQL.
+### 📦 [SaveTheStock](https://github.com/CamFav/savethestock)
 
-Features include role-based access, order and inventory management, stock tracking, automated tests, and CI workflows.
+**Multi-Tenant Inventory Management SaaS**
 
-**BeautyConnect** | Full-Stack Booking Platform
+A full-stack inventory management application designed for restaurants and food-service businesses.
 
-A web application connecting clients with beauty professionals, built with React, Node.js, Express, and MongoDB.
+**Technologies:**
+- **Backend:** ASP.NET Core .NET 10, Entity Framework Core, PostgreSQL
+- **Frontend:** React 19, TypeScript, Tailwind CSS
+- **Architecture:** Clean Architecture, multi-tenancy, JWT authentication, role-based access
+- **DevOps:** Docker Compose, GitHub Actions, automated testing and container image publishing
 
-Includes user authentication, appointment booking, professional dashboards, and profile management.
+**Key Features:**
+- Multi-company inventory management
+- Product, category, and supplier management
+- Purchase orders and stock receptions
+- Inventory tracking and stock valuation
+- Food waste tracking
+- Analytics and operational dashboards
+- Role-based authorization
 
-*Project repositories and documentation will be added when ready.*
+[![CI](https://github.com/CamFav/savethestock/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/CamFav/savethestock/actions/workflows/ci.yml)
+[![CD](https://github.com/CamFav/savethestock/actions/workflows/cd.yml/badge.svg?branch=main)](https://github.com/CamFav/savethestock/actions/workflows/cd.yml)
 
-### 🧠 Beyond the stack
+**[View Repository →](https://github.com/CamFav/savethestock)**
 
-- Software architecture and clean code
-- REST API design and authentication
-- Automated testing and CI/CD
-- AI coding agents and structured development workflows
-- Code review and validation
-- Unity and C# for AR/VR development
+---
+
+### 💅 [BeautyConnect](https://github.com/CamFav/beautyconnect)
+
+**Full-Stack Appointment Booking Platform**
+
+A web platform connecting clients with beauty professionals.
+
+**Technologies:**
+- **Backend:** Node.js, Express, MongoDB
+- **Frontend:** React, Tailwind CSS
+- **Security:** JWT authentication and role-based access
+
+**Key Features:**
+- User authentication and account management
+- Appointment booking and scheduling
+- Professional dashboards
+- Client and professional profiles
+- Role-based access control
+
+**[View Repository →](https://github.com/CamFav/beautyconnect)**
+
+---
+
+## 📚 Currently Learning
+
+- Microsoft Azure and cloud fundamentals
+- CI/CD pipelines and DevOps practices
+- Containerization and cloud deployment
+- AI-assisted software engineering
+- Backend architecture and automated testing
+
+---
+
+## 🎯 Engineering Interests
+
+- Clean Architecture and maintainable code
+- REST API design and backend development
+- Database modeling and application security
+- Automated testing and continuous integration
+- Cloud-native applications and infrastructure
+- AI coding agents and developer productivity
 
 ---
 
 <div align="center">
 
-**Always learning, building, and improving.**
+### Let's Connect!
 
-[LinkedIn](https://linkedin.com/in/camille-favriel)
+**Open to software development opportunities in France and remote.**
+
+[LinkedIn](https://linkedin.com/in/camille-favriel) · [GitHub](https://github.com/CamFav) · [Portfolio](https://camfav.github.io)
 
 </div>
